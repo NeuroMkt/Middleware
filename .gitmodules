@@ -4,3 +4,6 @@
 [submodule "App-LabRecorder"]
 	path = App-LabRecorder
 	url = https://github.com/labstreaminglayer/App-LabRecorder
+[submodule "liblsl-Matlab"]
+	path = liblsl-Matlab
+	url = https://github.com/labstreaminglayer/liblsl-Matlab
