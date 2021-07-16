@@ -7,3 +7,6 @@
 [submodule "liblsl-Matlab"]
 	path = liblsl-Matlab
 	url = https://github.com/labstreaminglayer/liblsl-Matlab
+[submodule "dsi2lsl"]
+	path = dsi2lsl
+	url = https://github.com/Neuroscale-Users/dsi2lsl
