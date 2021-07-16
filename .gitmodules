@@ -10,3 +10,6 @@
 [submodule "dsi2lsl"]
 	path = dsi2lsl
 	url = https://github.com/Neuroscale-Users/dsi2lsl
+[submodule "App-Input"]
+	path = App-Input
+	url = https://github.com/labstreaminglayer/App-Input
