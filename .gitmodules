@@ -1,3 +1,6 @@
 [submodule "App-TobiiStreamEngine"]
 	path = App-TobiiStreamEngine
 	url = https://github.com/labstreaminglayer/App-TobiiStreamEngine.git
+[submodule "App-LabRecorder"]
+	path = App-LabRecorder
+	url = https://github.com/labstreaminglayer/App-LabRecorder
