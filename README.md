@@ -1,7 +1,10 @@
 # Middleware
 Cloning this repo:
+
 `git clone --recursive -submodules https://github.com/NeuroMkt/Middleware.git`
+
 or
+
 `git clone https://github.com/NeuroMkt/Middleware.git`
 
 Η πρώτη εντολή θα έχει ως αποτέλεσμα τη λήψη όλων των ενοτήτων (modules) του project, ενώ αντίστοιχα η δεύτερη εντολή αφορά τη λήψη μόνο των αρχείων του παρόντος project αλλά όχι των συνδεδεμένων αποθετηρίων. Η λήψη του project θα έχει ως αποτέλεσμα τη δημιουργία των παρακάτω φακέλων στο σύστημα αρχείων του υπολογιστή:
